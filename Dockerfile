@@ -1,4 +1,4 @@
-FROM tertis/alpine
+FROM tertis/rpi-alpine
 
 # Install Java runtime environment
 RUN apk update && \
